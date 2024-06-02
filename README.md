@@ -23,16 +23,3 @@ Then you must exit the shell and start a new one for the Python virtual environm
 ```bash
 exit
 ```
-
-## Tasks
-
-
-## License
-
-Licensed under the Apache License. See [LICENSE](/LICENSE)
-
-## Author
-
-Skills Network
-
-## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
